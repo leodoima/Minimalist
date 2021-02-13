@@ -17,7 +17,7 @@ cd ~/Android/Sdk/skins
 
 Na tela inicial do **Android Studio**, clica em **Configure**, em seguida **AVD Manager**.
 <h1 align="center">
-  <img width="600px" src="/assets/Android Studio.png" />
+  <img width="350px" src="/assets/Android Studio.png" />
 </h1>
 A seguir teremos acesso a todos os *devices* já configurados. Selecionaremos **Create Virtual Device**.
 
@@ -28,13 +28,13 @@ Definiremos aqui as configurações de hardware do nosso sistema Android.
 Iremos em **New Hardware Profile**, para que possamos buscar nosso novo modelo.
 
 <h1 align="center">
-  <img width="600px" src="/assets/New hardware.png" />
+  <img width="350px" src="/assets/New hardware.png" />
 </h1>
 
 Informe um novo nome, configurações de resolução de tela e memória RAM, em seguida na opção **Default Skin** procure no diretório **Android** nossa pasta **Minimalist** que extraímos anteriormente.
 
 <h1 align="center">
-  <img width="600px" src="/assets/Configuration.png" />
+  <img width="350px" src="/assets/Configuration.png" />
 </h1>
 
 Feito isso, **Finish**.
@@ -46,13 +46,13 @@ Iremos aplicar configurações da funcionalidade do sistema
 Selecionamos, o agora presente, *device* **Minimalist** (ou nome criado anteriormente) e depois, **Next**.
 
 <h1 align="center">
-  <img width="600px" src="/assets/Device Minimalist.png" />
+  <img width="350px" src="/assets/Device Minimalist.png" />
 </h1>
 
 A tela exibida diz respeito a versão do Android a ser utilizada. Escolha uma.
 
 <h1 align="center">
-  <img width="600px" src="/assets/Image.png" />
+  <img width="350px" src="/assets/Image.png" />
 </h1>
 
 - Defina um nome
@@ -64,5 +64,5 @@ Finish.
 Tendo realizados os passos anteriores, basta clicar em **Launch** e executar a aplicação.
 
 <h1 align="center">
-  <img width="600px" src="/assets/Android.png" />
+  <img width="400px" src="/assets/Android.png" />
 </h1>
