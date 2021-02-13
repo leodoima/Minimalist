@@ -43,9 +43,13 @@ A tela exibida diz respeito a versão do Android a ser utilizada. Escolha uma.
 <h1 align="center">
   <img width="500px" src="/assets/Image.png" />
 </h1>
-- Defina um nome
-- Clica em **Show Advanced Settings**
-- Em **Device Frame** selecione novamente a pasta corresponde a *skin* **Minimalist**.
+Tabela de conteúdos
+=================
+<!--ts-->
+   * Defina um nome
+   * Clica em **Show Advanced Settings**
+   * Em **Device Frame** selecione novamente a pasta corresponde a *skin* **Minimalist**.
+<!--te-->
 
 **Finish**.
 
