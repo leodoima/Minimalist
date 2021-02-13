@@ -43,13 +43,12 @@ A tela exibida diz respeito a versão do Android a ser utilizada. Escolha uma.
 <h1 align="center">
   <img width="500px" src="/assets/Image.png" />
 </h1>
-Tabela de conteúdos
-=================
-<!--ts-->
-   * Defina um nome
-   * Clica em **Show Advanced Settings**
-   * Em **Device Frame** selecione novamente a pasta corresponde a *skin* **Minimalist**.
-<!--te-->
+
+- [Defina um nome]
+- [Clica em **Show Advanced Settings**]
+- [Em **Device Frame** selecione novamente a pasta corresponde a *skin* **Minimalist**]
+- [Docker]
+- [TypeORM]
 
 **Finish**.
 
